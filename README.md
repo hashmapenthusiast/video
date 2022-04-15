@@ -1,0 +1,1 @@
+This is an attempt to recreate the Menu vanilla javascript project from https://www.vanillajavascriptprojects.com/ without first watching the video or peeking at the code and its also a place to write notes as I go through the exercise.
